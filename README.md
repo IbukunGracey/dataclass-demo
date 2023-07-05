@@ -1,6 +1,6 @@
 # Data Demo
 
-This repository is a demo on how to use github.
+This repository is a demo.
 
 I am adding more info to show changes in this file.
 
